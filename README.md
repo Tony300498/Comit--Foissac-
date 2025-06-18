@@ -105,7 +105,7 @@
   <section id="presentation">
     <h2>Qui sommes-nous ?</h2>
     <p>
-      Le Comité des fêtes de Foissac organise chaque année des événements festifs pour faire vivre notre village : fêtes locales, soirées à thème, concerts, marchés gourmands et plus encore.  
+      Le Comité des fêtes de Foissac organise chaque année des événements festifs pour faire vivre notre village : fêtes votives, soirées à thème, concours de pétanques, marché de noëls et plus encore.  
       Notre but : créer des moments inoubliables, renforcer les liens entre les habitants et faire rayonner Foissac dans la bonne humeur !
     </p>
   </section>
