@@ -114,9 +114,9 @@
     <h2>Nos événements</h2>
     <ul>
       <li>🎉 Fête votive de l’été</li>
-      <li>🍷 Soirée vin & musique</li>
+      <li>🏅 Concours de boules</li>
       <li>🎅 Marché de Noël</li>
-      <li>🎭 Carnaval de printemps</li>
+      <li>🐂 Revivre </li>
     </ul>
   </section>
 
@@ -136,15 +136,15 @@
       Rejoins-nous ! Aucune expérience requise, juste de la bonne humeur 😄
     </p>
     <div class="cta">
-      <strong>📧 Écris-nous à : </strong> <a href="mailto:contact@comite-foissac.fr" style="color: white;">contact@comite-foissac.fr</a>
+      <strong>📧 Écris-nous à : </strong> <a href="comitedesfetesdefoissac30700@gmail.com" style="color: white;">comitedesfetesdefoissac30700@gmail.com</a>
     </div>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
     <p>📍 Foissac, France</p>
-    <p>📞 06 00 00 00 00</p>
-    <p>📧 contact@comite-foissac.fr</p>
+    <p>📞 06 31 83 36 31</p>
+    <p>📧 comitedesfetesdefoissac30700@gmail.com</p>
   </section>
 
   <section id="reseaux">
